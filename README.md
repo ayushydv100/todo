@@ -1,0 +1,1 @@
+A simple Todo App built with the MERN stack (MongoDB, Express, React, Node.js). It utilizes all CRUD (Create, Read, Update, Delete) operations for seamless task management. Manage tasks, edit them or delete them when completed, and stay organized.
